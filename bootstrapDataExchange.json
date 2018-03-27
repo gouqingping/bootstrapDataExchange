@@ -1,0 +1,106 @@
+{
+	"rtState": "0",
+	"rtMsrg": "成功设置桌面属性",
+	"rtData": {
+		"disselected": [{
+				"id": "02",
+				"text": "个人事务",
+				"isParent": "1"
+			},
+			{
+				"parentId": "02",
+				"text": "工作计划类型设置",
+				"value": "025009"
+			},
+			{
+				"parentId": "02",
+				"text": "领导日程",
+				"value": "025607"
+			},
+			{
+				"parentId": "02",
+				"text": "个人日程",
+				"value": "025608"
+			},
+			{
+				"parentId": "02",
+				"text": "我的通讯录",
+				"value": "026002"
+			},
+			{
+				"parentId": "02",
+				"text": "个人文件柜",
+				"value": "027601"
+			},
+			{
+				"parentId": "02",
+				"text": "公共文件柜",
+				"value": "027602"
+			},
+			{
+				"parentId": "02",
+				"text": "公共文件柜设置",
+				"value": "027603"
+			},
+			{
+				"id": "05",
+				"text": "公文管理",
+				"isParent": "1"
+			},
+			{
+				"parentId": "05",
+				"text": "发文拟稿",
+				"value": "051001"
+			},
+			{
+				"parentId": "05",
+				"text": "发文查询",
+				"value": "051003"
+			},
+			{
+				"parentId": "05",
+				"text": "快文",
+				"value": "051036"
+			},
+			{
+				"parentId": "05",
+				"text": "外部收文",
+				"value": "051505"
+			},
+			{
+				"parentId": "05",
+				"text": "系统收文",
+				"value": "051509"
+			},
+			{
+				"parentId": "05",
+				"text": "卷库管理",
+				"value": "052001"
+			},
+			{
+				"parentId": "05",
+				"text": "案卷管理",
+				"value": "052003"
+			}
+		],
+		"selected": [{
+				"value": "10",
+				"text": "待办工作"
+			},
+			{
+				"value": "238",
+				"text": "文件柜[必选]",
+				"isMustSelect": true
+			},
+			{
+				"value": "13",
+				"text": "新闻"
+			},
+			{
+				"value": "239",
+				"text": "便签[必选]",
+				"isMustSelect": true
+			}
+		]
+	}
+}

@@ -1,0 +1,19 @@
+[data-exhange="true"]:focus {
+  color: white;
+  background-color: #007bff;
+  border-color: #007bff; }
+
+.BootstrapDataExchange .iconft {
+  font-size: 20px; }
+  .BootstrapDataExchange .iconft:hover {
+    cursor: pointer;
+    color: #007bff; }
+.BootstrapDataExchange .iconO {
+  margin-top: 70px; }
+.BootstrapDataExchange .data-title {
+  padding: 6px; }
+.BootstrapDataExchange .ex-margin {
+  margin: 0;
+  padding: 0; }
+
+/*# sourceMappingURL=bootstrapDataExchange.css.map */

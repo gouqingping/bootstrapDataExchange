@@ -1,0 +1,26 @@
+@charset "utf-8";
+@import 'config.scss';
+[data-exhange="true"]:focus {
+    color: $focusColor;
+    background-color: $acfocus;
+    border-color: $acfocus;
+}
+.BootstrapDataExchange {
+    .iconft {
+        font-size: 20px;
+        &:hover {
+            cursor: pointer;
+            color: $iconHoverColor;
+        }
+    }
+    .iconO{
+        margin-top:70px;
+    }
+    .data-title {
+        padding:6px;
+    }
+    .ex-margin {
+        margin: 0;
+        padding: 0;
+    }
+}

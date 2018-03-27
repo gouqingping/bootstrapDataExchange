@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,2BAA4B;EACxB,KAAK,ECFG,KAAK;EDGb,gBAAgB,ECJX,OAAO;EDKZ,YAAY,ECLP,OAAO;;ADQZ,8BAAQ;EACJ,SAAS,EAAE,IAAI;EACf,oCAAQ;IACJ,MAAM,EAAE,OAAO;IACf,KAAK,ECVD,OAAO;ADanB,6BAAM;EACF,UAAU,EAAC,IAAI;AAEnB,kCAAY;EACR,OAAO,EAAC,GAAG;AAEf,iCAAW;EACP,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC",
+"sources": ["../sass/bootstrapDataExchange.scss","../sass/config.scss"],
+"names": [],
+"file": "bootstrapDataExchange.css"
+}
